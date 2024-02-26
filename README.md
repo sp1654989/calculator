@@ -16,5 +16,8 @@ Welcome to the Calculator App! This application allows users to perform basic ar
 4. Click the "Calculate" button to see the result.
 5. To clear the input fields, click the "Clear" button.
 
+## Demo
+
+You can try a live demo of the Calculator App [here](https://sp1654989.github.io/calculator/).
 
 
